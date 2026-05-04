@@ -1,2 +1,2 @@
 # IoT-Power-Line-Fault-Detection-System
-Developed an IoT-based fault detection system using sensors, relay modules, and a microcontroller for real-time monitoring. Implemented debugging and control logic to detect faults accurately and integrated Blynk IoT for instant alerts, remote monitoring, and improved system reliability.
+This project is an IoT-based fault detection system developed using sensors, relay modules, and a microcontroller to monitor system conditions in real time. It detects faults accurately through embedded control logic and debugging techniques. Integrated with Blynk IoT, the system provides instant alerts and remote monitoring for improved reliability and quick response.
